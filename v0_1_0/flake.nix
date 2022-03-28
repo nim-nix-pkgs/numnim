@@ -11,7 +11,6 @@
   inputs.src-numnim-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-numnim-v0_1_0.owner = "YesDrX";
   inputs.src-numnim-v0_1_0.repo  = "numnim";
-  inputs.src-numnim-v0_1_0.dir   = "";
   inputs.src-numnim-v0_1_0.type  = "github";
   
   inputs."nimblas".owner = "nim-nix-pkgs";

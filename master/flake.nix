@@ -11,7 +11,6 @@
   inputs.src-numnim-master.ref   = "refs/heads/master";
   inputs.src-numnim-master.owner = "YesDrX";
   inputs.src-numnim-master.repo  = "numnim";
-  inputs.src-numnim-master.dir   = "";
   inputs.src-numnim-master.type  = "github";
   
   inputs."nimblas".owner = "nim-nix-pkgs";
